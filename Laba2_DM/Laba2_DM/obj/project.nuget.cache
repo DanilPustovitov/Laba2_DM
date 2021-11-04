@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bworXjtbx6Hqe3d15LhEpk7xk1pOkGpOsxxq7OnJTseuGyKo3EKqB92uzrB5cAIJa41XrzPqOeZzdxUQC/tDHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Danil\\source\\repos\\Laba2_DM\\Laba2_DM\\Laba2_DM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Danil\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
