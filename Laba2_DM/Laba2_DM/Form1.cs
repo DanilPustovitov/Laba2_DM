@@ -204,7 +204,14 @@ namespace Laba2_DM
                     {
                         if (arr[i, j] != arr[j, i])
                         {
-                            arr[i, j] = arr[j, i];
+                            if (arr[i, j] == 1)
+                            {
+                                arr[j, i] = arr[j, i] | arr[i, j];
+                            }
+                            else
+                            {
+                                arr[i, j] = arr[i, j] | arr[j,i];
+                            }
                         }
 
                     }
